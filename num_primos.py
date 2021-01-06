@@ -3,7 +3,7 @@ def verifica_primos(num):
 
     #Variáveis de controle
     aux2 = num
-    aux3 = 0 
+    aux3 = 0
     
     if aux2 >= 3:
         #Caso o número digitado seja maior que 3, é impresso os dois primeiros números primos que existem de 0 a 100
